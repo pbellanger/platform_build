@@ -24,18 +24,15 @@ PRODUCT_PACKAGES := \
     OpenWnn \
     libWnnEngDic \
     libWnnJpnDic \
-    libwnndict \
-    WAPPushManager
+    libwnndict
 
 PRODUCT_PACKAGES += \
-    Galaxy4 \
     HoloSpiralWallpaper \
     LiveWallpapers \
     LiveWallpapersPicker \
     MagicSmokeWallpapers \
     NoiseField \
-    PhaseBeam \
-    PhotoTable
+    PhaseBeam
 
 # Additional settings used in all AOSP builds
 PRODUCT_PROPERTY_OVERRIDES := \
